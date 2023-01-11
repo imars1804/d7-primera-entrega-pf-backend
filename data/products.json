@@ -1,11 +1,11 @@
 [
     {
-      "nombre": "Metal gear solid 3",
-      "descripcion": "Mejor juego del mundo",
+      "nombre": "Avatar: The Way of Water",
+      "descripcion": "La película del momento",
       "codigo": 214645321231,
-      "foto": "https://pics.filmaffinity.com/metal_gear_solid_3_snake_eater-543038331-large.jpg",
-      "precio": 3254,
-      "stock": 45,
+      "foto": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-large.jpg",
+      "precio": 4000,
+      "stock": 10,
       "id": 1,
       "timestamp": 1670432296170
     }
